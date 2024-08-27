@@ -3,16 +3,18 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=OpenSans&size=28&duration=2300&color=00cbf3&center=false&vCenter=true&multiline=true&width=300&height=60&lines=Hi!+%F0%9F%91%8B">
 </p>
 
-
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@PraneshChowdhury&logo=linkedin&style=flat&color=green)](https://www.linkedin.com/in/praneshchowdhury/)   
+<div align="left">
+ <a href="https://linkedin.com/in/praneshchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh linkedin" height="25" width="35" /></a>
+	<a href="https://www.facebook.com/praneshchow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh facebook" height="25" width="35" /></a>
+</div>
 
 <hr>
 
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Pranesh Chowdhury.
-- 🖥️ I am a MERN Stack Developer.
+- 🖥️ I'm a MERN Stack Developer.
 - 👀 I’m interested in Web Development and Data Science. 
-- 🌱 I’m currently learning Backend Development and exploring Deep learning.
+- 🌱 I’m currently exploring AI, ML, Deep learning and Neural Network.
 - 📫 You can reach me at praneshchy23@gmail.com
 
 
@@ -20,7 +22,7 @@
 
 - **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C`, `C++`.
 
-- **Framework & Library**: `React.JS`, `Bootstrap5`, `Tailwind CSS`, `Express.js`, `Node.js`.
+- **Framework & Library**: `React.js`, `Bootstrap5`, `Tailwind CSS`, `Express.js`, `Node.js`.
 
 - **Databases**: `MongoDB`, `MySQL`, `Oracle`.
 
@@ -41,8 +43,10 @@
 </div>
 
 
-### :hugs: Thank You!
+### :hugs: Thank You!   
 
 ![](https://komarev.com/ghpvc/?username=Praneshchow&color=blueviolet&style=for-the-badge)
 
 Thank you so much for visiting my GitHub profile 💛
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
