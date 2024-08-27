@@ -20,15 +20,17 @@
 
 ## 🥇 My skills:
 
-- **Languages**: `JavaScript`, `Python`, `HTML5`, `CSS3`. `Java`, `C`, `C++`.
+- **Frontend**: `React.js`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`.
 
-- **Framework & Library**: `React.js`, `Bootstrap5`, `Tailwind CSS`, `Express.js`, `Node.js`.
+- **Backend**: `Express.js`, `Node.js`, `MongoDB`. 
+
+- **Tools**: `GitHub`, `Netlify`, `Firebase`, `VScode`, `Chrome Dev tools`, `Figma`, `Vercel`, `Tan Stack Query`, `JWT`. 
+
+- **Languages**: `JavaScript`, `Python`, `Java`, `C`, `C++`.
 
 - **Databases**: `MongoDB`, `MySQL`, `Oracle`.
 
-- **Tools/Technology**: `GitHub/Git`,  `Vercel`, `Firebase`, `Netlify`, `VScode`, `Chrome Dev tools`, `Figma`, `Jupyter Notebooks`. 
-    
-- Good understanding of **Algorithms**, **Data-structures**, and **Machine Learning**.
+- **Artificial intelligence**: `pandas`, `seaborn`, `Project Jupyter`
 
 - **Problem Solving**: `Leetcode`, `Hackerrank`, `Beecrowd`, `Codeforce`.
 
