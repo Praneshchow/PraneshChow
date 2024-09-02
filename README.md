@@ -3,19 +3,23 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=OpenSans&size=28&duration=2300&color=00cbf3&center=false&vCenter=true&multiline=true&width=300&height=60&lines=Hi!+%F0%9F%91%8B">
 </p>
 
+
+## Connect with Me:
+
+
 <div align="left">
  <a href="https://linkedin.com/in/praneshchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh linkedin" height="25" width="35" /></a>
 	<a href="https://www.facebook.com/praneshchow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh facebook" height="25" width="35" /></a>
 </div>
 
-<hr>
 
-## 🙋‍♂️ About Me
-- 👋 Hi, I’m Pranesh Chowdhury.
-- 🖥️ I'm a MERN Stack Developer.
-- 👀 I’m interested in Web Development and Data Science. 
-- 🌱 I’m currently exploring AI, ML, Deep learning and Neural Network.
-- 📫 You can reach me at praneshchy23@gmail.com
+
+## 🙋‍♂️ About Me 
+- 👋 Hi, I’m Pranesh Chowdhury. 
+- 🖥️ I'm a MERN Stack Developer. 
+- 👀 I’m interested in Web Development and Data Science.  
+- 🌱 I’m exploring Artificial intelligence, and Deep Learning.  
+- 📫 You can reach me at praneshchy23@gmail.com  
 
 
 ## 🥇 My skills:
@@ -30,7 +34,7 @@
 
 - **Databases**: `MongoDB`, `MySQL`, `Oracle`.
 
-- **Artificial intelligence**: `pandas`, `seaborn`, `Project Jupyter`
+- **Artificial intelligence**: `pandas`, `seaborn`, `jupyter notebook`
 
 - **Problem Solving**: `Leetcode`, `Hackerrank`, `Beecrowd`, `Codeforce`.
 
