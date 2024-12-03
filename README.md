@@ -7,7 +7,8 @@
 ### 📌 Connect with Me:
 <div align="left">
  	<a href="https://linkedin.com/in/praneshchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh linkedin" height="25" width="35" /></a>
-	<a href="https://www.facebook.com/praneshchow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh facebook" height="25" width="35" /></a>
+	<a href="https://www.facebook.com/praneshchow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh facebook" height="26" width="35" /></a>
+	<a href="https://www.researchgate.net/profile/Pranesh-Chowdhury-3" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0o4fJ0Mmdia7BDExvtuAyGtcHsbkAaLdEkw&s" alt="pranesh researchgate" height="32" width="34" /></a>
 </div>
 
 ### 😇 About Me 
