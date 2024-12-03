@@ -1,47 +1,50 @@
 
+![2](https://github.com/user-attachments/assets/b1b70ed2-24c2-4480-852b-cf7939ff5bea)
+
+
 <p>
-	<img src="https://readme-typing-svg.herokuapp.com?font=OpenSans&size=28&duration=2300&color=00cbf3&center=false&vCenter=true&multiline=true&width=300&height=60&lines=Hi!+%F0%9F%91%8B">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=2300&color=00cbf3&center=false&vCenter=true&multiline=true&width=300&height=60&lines=Hi+💭">
 </p>
 
 
-## Connect with Me:
+### Connect with Me:
 
 
 <div align="left">
- <a href="https://linkedin.com/in/praneshchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh linkedin" height="25" width="35" /></a>
+ 	<a href="https://linkedin.com/in/praneshchowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh linkedin" height="25" width="35" /></a>
 	<a href="https://www.facebook.com/praneshchow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh facebook" height="25" width="35" /></a>
 </div>
 
 
 
-## 🙋‍♂️ About Me 
+### 🙋‍♂️ About Me 
 - 👋 Hi, I’m Pranesh Chowdhury. 
 - 🖥️ I'm a MERN Stack Developer. 
 - 👀 I’m interested in Web Development and Data Science.  
-- 🌱 I’m exploring Artificial intelligence, and Deep Learning.  
+- 🌱 I’m exploring Artificial intelligence and Deep Learning.  
 - 📫 You can reach me at praneshchy23@gmail.com  
 
 
-## 🥇 My skills:
+### 🥇 My skills:
 
-- **Frontend**: `React.js`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`.
+ **Frontend**: `React.js`, `Typescript`, `JavaScript`, `HTML`, `CSS`, `Bootstrap`, `Tailwind CSS`.
 
-- **Backend**: `Express.js`, `Node.js`, `MongoDB`. 
+ **Backend**: `Express.js`, `Node.js`, `MongoDB`. 
 
-- **Tools**: `GitHub`, `Netlify`, `Firebase`, `VScode`, `Chrome Dev tools`, `Figma`, `Vercel`, `Tan Stack Query`, `JWT`. 
+ **Tools**: `GitHub`, `Netlify`, `Firebase`, `VScode`, `Chrome Dev tools`, `Figma`, `Vercel`, `Tan Stack Query`, `JWT`, `Stripe`. 
 
-- **Languages**: `JavaScript`, `Python`, `Java`, `C`, `C++`.
+ **Languages**: `Typescript`, `JavaScript`, `Python`, `Java`, `C`, `C++`.
 
-- **Databases**: `MongoDB`, `MySQL`, `Oracle`.
+ **Databases**: `MongoDB`, `MySQL`, `Oracle`.
 
-- **Artificial intelligence**: `pandas`, `seaborn`, `jupyter notebook`
+ **Artificial intelligence**: `pandas`, `seaborn`, `jupyter notebook`
 
-- **Problem Solving**: `Leetcode`, `Hackerrank`, `Beecrowd`, `Codeforce`.
+ **Problem Solving**: `Leetcode`, `Hackerrank`, `Beecrowd`, `Codeforce`.
 
-- **Operating System**: `Windows`.
+ **Operating System**: `Windows`.
 
 
-## :pencil: Stats
+### :pencil: Stats
 <br/>
 <div>
 	<img src="https://gh-readme.vercel.app/api?username=praneshchow&show_icons=true&include_all_commits=true&count_private=true&count_private=true&hide_border=true&title_color=00cbf3&text_color=00cbf3&icon_color=00cbf3&bg_color=040506&hide_rank=true&line_height=28" />
