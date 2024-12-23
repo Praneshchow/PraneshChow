@@ -1,8 +1,6 @@
+### Hi, I'm Pranesh Chowdhury 💭
 
 ![2](https://github.com/user-attachments/assets/b1b70ed2-24c2-4480-852b-cf7939ff5bea)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&duration=2300&color=00cbf3&center=false&vCenter=true&multiline=true&width=300&height=60&lines=Hi+💭">
-
 
 ### 📌 Connect with Me:
 <div align="left">
